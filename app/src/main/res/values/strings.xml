@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Speech To Text</string>
+    <string name="choose_language">Hãy chọn ngôn ngữ cần nhận diện \n \n Please choose language recognition</string>
+    <string name="confirm">Xác Nhận</string>
+    <string name="confirm_en">Confirm</string>
+    <string name="vi_vn">Tiếng Việt</string>
+    <string name="en_us">English</string>
+    <string name="agree">Đồng ý</string>
+    <string name="decline">Từ chối</string>
+    <string name="agree_en">Yes</string>
+    <string name="decline_en">No</string>
+    <string name="save_option">Bạn có chắc bạn muốn ứng dụng chọn ngôn ngữ Tiếng Việt làm mặc định nhận dạng giọng nói hay không ? Nếu bạn đồng ý thì lần sau bạn sẽ không cần phải set lại ngôn ngữ nhận diện nữa.</string>
+    <string name="save_option_en">Are you sure want your App choose english is default language recognite voice ? If you choose yes , you will not set language recognite again.  </string>
+    <string name="noti_title">Thông báo</string>
+    <string name="noti_title_en">Notification</string>
+    <string name="delete_default_vn">Đổi ngôn ngữ?</string>
+    <string name="delete_default_en">Change language?</string>
+</resources>

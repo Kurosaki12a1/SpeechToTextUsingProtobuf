@@ -1,0 +1,33 @@
+syntax = "proto3";
+package bku;
+
+message postRequest {
+
+    message CONFIG {
+        string encoding = 1;
+        double sampleRateHertz = 2;
+        string languageCode = 3;
+        bool enableAutomaticPunctuation = 4;
+        string model = 5;
+    }
+
+    CONFIG config = 1;
+
+    message AUDIO {
+        string uri = 1;
+    }
+
+    AUDIO audio = 2;
+}
+message getRequest {
+    message RESULTS {
+
+        message ALTERNATIVES {
+            double confidence = 1;
+            string transcript = 2;
+        }
+        repeated ALTERNATIVES alternatives = 1;
+    }
+    repeated RESULTS results = 1;
+}
+

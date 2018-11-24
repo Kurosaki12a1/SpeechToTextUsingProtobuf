@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="textColorLogin">#fff</color>
+    <color name="textColorScreenDark">#fff</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorTextDialog">#0099dd</color>
+    <color name="textColorSubTitle">#939393</color>
+    <color name="textColorChapterNormal">#b4b0b0</color>
+    <color name="textColorTotal">#d66321</color>
+    <color name="backgroundSignIn">#2C2C2C</color>
+    <color name="bg_title_connect_device">#282828</color>
+    <color name="bg_contain_connect_device">#333333</color>
+    <color name="button_connect">#1699DA</color>
+    <color name="color_contract">#626262</color>
+    <color name="backgroundImageIPTV">#333333</color>
+    <color name="toolbarColor">#282828</color>
+    <color name="colorButtonAlert">#ea4747</color>
+    <color name="color_error">#FF0000</color>
+    <color name="tintRating">#ea4747</color>
+    <color name="tintRatingSecond">#ffe100</color>
+
+</resources>
